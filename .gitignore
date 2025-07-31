@@ -40,3 +40,6 @@ htmlcov/
 build/
 dist/
 *.spec
+
+# templ
+*x.py
