@@ -86,10 +86,11 @@
     [x] 11. Итоговая работа на словари
         [x] 11.1 Часть 1
         [x] 11.2 Часть 2
-    [ ] 12. Модули random и string
-        [ ] 12.1 Модуль random. Часть 1
-        [ ] 12.2 Модуль random. Часть 2
-        [ ] 12.3 Метод Монте-Карло и Bogosort
+- module_12.py
+    [x] 12. Модули random и string
+        [x] 12.1 Модуль random. Часть 1
+        [x] 12.2 Модуль random. Часть 2
+        [x] 12.3 Метод Монте-Карло и Bogosort
     [ ] 13. Модули decimal, fraction и complex
         [ ] 13.1 Модуль decimal
         [ ] 13.2 Модуль fractions
