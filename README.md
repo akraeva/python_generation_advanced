@@ -150,8 +150,13 @@
 ## 📎 Ссылки
 
 - [Stepik курс "Поколение Python: продвинутый уровень"](https://stepik.org/course/68343/)
-- [Репозиторий с решениями курса по Python от Яндекса](https://github.com/akraeva/yandex-handbook-python)
+- [Репозиторий с решениями "PROкод: продвинутый курс по Python"](https://github.com/akraeva/procode-advanced-python.git)
+- [Репозиторий с решениями "Python: основы и применение"](https://github.com/akraeva/python-basics-and-applications)
 - [Репозиторий с решениями "Алгоритмы в Python — просто, наглядно, с нуля!"](https://github.com/akraeva/algorithms-python-course)
+- [Репозиторий с решениями курса по Python от Яндекса](https://github.com/akraeva/yandex-handbook-python)
+- [Репозиторий с решениями "Поколение Python: продвинутый уровень"](https://github.com/akraeva/python_generation_advanced)
+- [Репозиторий с решениями "Углублённый Python"](https://github.com/akraeva/python-deep-dive)
+- [Репозиторий с решениями "Python | Вторая ступень | Продвинутые концепции"](https://github.com/akraeva/eidos-python-stage-2.git)
 
 ---
 
